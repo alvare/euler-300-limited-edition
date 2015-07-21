@@ -2,7 +2,7 @@ import Data.Char
 import Text.Printf
 import Control.Exception
 import System.CPUTime
- 
+
 -- Utility
 time :: IO t -> IO t
 time a = do
